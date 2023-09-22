@@ -1,0 +1,8 @@
+com\mycompany\pacman\GameObject.class
+com\mycompany\pacman\Booster.class
+com\mycompany\pacman\Bomb.class
+com\mycompany\pacman\Ghost.class
+com\mycompany\pacman\Game.class
+com\mycompany\pacman\Item.class
+com\mycompany\pacman\Player.class
+com\mycompany\pacman\Pacman.class
